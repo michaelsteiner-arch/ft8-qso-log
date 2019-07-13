@@ -317,7 +317,7 @@ def main():
 	strFileIn = "ALL.TXT"
 	strMyCall = "OE1MSB"
 	strMyLoc = "JN88df"
-	#ReadAllTxt(strFileIn, strMyLoc)
+	ReadAllTxt(strFileIn, strMyLoc)
 	
 	global my_dict
 	my_dict = {}
